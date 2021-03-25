@@ -1,6 +1,6 @@
 // load the http module
 var http = require("http");
-console.log("hello");
+console.log("hello eewwew");
 // configure our HTTP server
 var server = http.createServer(function (request, response) {
   response.writeHead(200, { "Content-Type": "text/plain" });
